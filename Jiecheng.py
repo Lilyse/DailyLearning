@@ -1,7 +1,7 @@
 def Jiecheng(x):
     x *= (x-1)
     return x
-temp = int(input())
+temp = input()
 x = int(temp)
 n = 1
 while x > 1 :
